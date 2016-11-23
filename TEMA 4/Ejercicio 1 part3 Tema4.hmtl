@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+  <head>
+    <title>Ejercicio 1 parte 3 Tema 4</title>
+    <style> table, td {
+      border-style: solid;
+      border-collapse: collapse;
+      border-width: 2px;
+      text-align: center;
+      padding: 15px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <table style="width:60%">
+      <tr>
+        <td>A1</td>
+        <td>A2</td>
+        <td>A3</td>
+      </tr>
+      <tr>
+        <td>B1</td>
+        <td>B2</td>
+        <td>B3</td>
+      </tr>
+      <tr>
+        <td>C1</td>
+        <td>C2</td>
+        <td>C3</td>
+      </tr>
+
+    </table>
+  </body>
+</html>

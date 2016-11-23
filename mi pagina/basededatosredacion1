@@ -1,0 +1,17 @@
+Ejercicio11: Archivos Constantes: Su información permanece inamovible. ej: Como las vias de un tren, horarios, etc.
+
+Archivos de Situacion: Informan sobre el estado o la situación de una empresa y se actualizan periodicamente para adaptarlo a cada situación.
+
+Archivos Historicos: Se obtiene de los 2 anteriores para los futuros estudios o consultas.
+------------------------
+Fichero de texto(archivos de texto), Ficheros binarios(imagenes,videos), 
+
+Fichero segun su contenido: de configuracion, codigo fuente, pagina web.
+
+Ejercicio12: Hoy en dia hay mejores opciones economicas, mas rapidos en lecturas y escritura que los discos magneticos.
+
+
+Ejercicio13: Para alamcenar informacion mas ordenada pero no se puede usar para cosas muy grandes por que no es estructurada. Se usa para CSV.
+
+
+Ejercicio14: Almacednamiento de contraseñas y su posterior cifrado mediante codigo hash
