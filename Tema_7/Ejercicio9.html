@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+  <head>
+    <title></title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <style>
+
+      body{text-align: center;
+      background: #FAB556;
+      color: brown}
+      #titulo{color: white}
+      #destacado{color: yellow}
+    </style>
+  </head>
+
+  <body>
+    <form action="none.asp">
+      <h2 id="titulo">Encuesta - Preferencias de Usuarios</h2><br>
+        <p>Este test ha sido desarrollado a modo de <b id="destacado">ejemplo</b> por la alumna Noemí E.
+           Leitón de primero de daw</p>
+        <hr></hr>
+        <b>Pregunta 1: </b>¿Cuál de las siguientes imágenes te gusta más?<br>
+
+        <input type="checkbox" name="foto1">
+        <img src="foto1.jpg" alt="Mountain View" style="width:200px;height:150px;">
+        <br>
+        <input type="checkbox" name="foto2">
+        <img src="foto2.jpg" alt="Mountain View" style="width:200px;height:150px;"><br>
+
+        <b>Pregunta 2: </b> Indica que lugares prefieres para descansar.<br>
+        <input type="checkbox" name="playa">Playa<br>
+        <input type="checkbox" name="campo">Campo<br>
+        <input type="checkbox" name="montaña">Montaña<br>
+        <b>Pregunta 3: </b> Introduce su nombre y apellido.<br>
+        Nombre:  <input type="text" name="nombre"><br>
+        Apellido:  <input type="text" name="apellido"><br>
+        <b>Pregunta 4:</b> Ciudad de origen.<br>
+        Ciudad: <select>
+              <option value="gg">Málaga<br>
+              <option value="re">Cádiz<br>
+              <option value="tb">Cordoba<br>
+        </select><br>
+      <input type="submit" value="Enviar cuestionario">
+    </form>
+  </body>
+
+</html>
